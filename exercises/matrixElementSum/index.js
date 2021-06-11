@@ -1,3 +1,11 @@
+/**
+ * 
+ * Problem
+ * matrixElementsSum from codeSignal
+ * https://app.codesignal.com/arcade/intro/level-2/xskq4ZxLyqQMCLshr
+ */
+
+
 let matrix = [[0, 1, 1, 2], 
               [0, 5, 0, 0], 
               [2, 0, 3, 3]];
